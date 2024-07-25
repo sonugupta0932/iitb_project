@@ -1,2 +1,2 @@
 # iitb_project
-Uploaded projects I developed during my semesters at IIT Bombay. These projects involve Python coding focused on various machine learning aspects, including linear regression, logistics regression, and clustering.
+Here are the projects I completed during my semesters at IIT Bombay. These projects involved Python coding and focused on various aspects of machine learning, including linear regression, logistic regression, and clustering.
